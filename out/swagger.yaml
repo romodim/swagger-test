@@ -1,0 +1,23 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "ShowMeHowYourWork",
+    "description" : "Just to see how it is actually working!",
+    "version" : "0.1"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/romankazakov/FirstAPI/0.1",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "tags" : [ {
+    "name" : "New Tag 1"
+  } ],
+  "paths" : { },
+  "components" : {
+    "schemas" : {
+      "Schema" : {
+        "description" : "My test schema!"
+      }
+    }
+  }
+}
